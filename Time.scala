@@ -1,28 +1,9 @@
-
-
 object Time {
-  
-  def findTime(distance : Int): Int = {
-    
-    var time = 0;
-    
-    for(i <- 1 to distance){
-      if(i <=2){
-        time += 8;
-      }else if(i > 2 && i <= 5)
-      {
-        time += 7;
-      }else if(i > 5 && i <= 7)
-      {
-        time += 8;
-      }
-    }
-    return time;
-  }
-  
+  def easyTime(x: Int):Int = x*8;
+  def tempoTime(y: Int):Int = y*7;
+  def totalTime(d1: Int, d2: Int, d3: Int):Int = easyTime(d1) + tempoTime(d2) + easyTime(d3);
   def main(args: Array[String]){
-    
-    var result = findTime(7);
-    println("Tptal time : " + result + "miniutes");
+    var result = totalTime(2, 3, 2);
+    println("Total time : " + result + " miniutes");
   }
 }
