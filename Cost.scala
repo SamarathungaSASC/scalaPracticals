@@ -12,7 +12,7 @@ object Cost {
       3*50 + (bookNum - 50) * 0.75
   }
   def totalCost(bookNum: Int):Double = discountPrice(bookNum) + shipping(bookNum);
-  def main(args: Array[String]){
+  def main(args: Array[String])={
     var result = totalCost(60);
     println(f"Total cost : $result%.2f Rs");
   }
