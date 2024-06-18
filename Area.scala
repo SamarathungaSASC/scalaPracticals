@@ -1,15 +1,7 @@
-
-
 object Area {
-  
-  def findArea(radius:Int,pi:Float):Float = {
-    
-    return pi*radius*radius;
-  }
-  
+  def calculateArea(r:Double):Double = Math.PI*r*r  
   def main(args: Array[String]){
-    
-    var result = findArea(5, 3.14f);
+    var result = calculateArea(5);
     println("Area : " + result);
   }
 }
