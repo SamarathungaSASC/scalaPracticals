@@ -896,3 +896,818 @@ INFO: Unsupported notification method: $/setTrace
 2024.06.25 00:37:40 INFO  shutting down Metals
 2024.06.25 00:37:40 INFO  Shut down connection with build server.
 2024.06.25 00:37:40 INFO  Exiting server
+2024.06.25 08:09:14 INFO  Started: Metals version 1.3.2 in folders 'C:\Users\Sandeepa\Documents\GitHub\scalaPracticals' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@6d787775]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@184c4900]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@6d787775]
+2024.06.25 08:09:14 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.06.25 08:09:15 INFO  no build target found for C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\practical2_1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 08:09:15 INFO  Attempting to connect to the build server...
+2024.06.25 08:09:15 INFO  Running BSP server List(C:\Users\Sandeepa\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\.scala-build\ide-envs.json, C:\Users\Sandeepa\Documents\GitHub\scalaPracticals)
+2024.06.25 08:09:15 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\.metals\bsp.trace.json or C:\Users\Sandeepa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.25 08:09:17 INFO  BSP server: Starting compilation server
+2024.06.25 08:09:21 INFO  time: Connected to build server in 5.44s
+2024.06.25 08:09:21 INFO  Connected to Build server: scala-cli v1.3.2
+2024.06.25 08:09:21 INFO  time: Imported build in 0.11s
+2024.06.25 08:09:21 INFO  compiling scalapracticals_3c17ee17d6 (9 scala sources)
+2024.06.25 08:09:22 INFO  time: indexed workspace in 1.67s
+2024.06.25 08:09:25 INFO  time: compiled scalaPracticals_3c17ee17d6 in 4.19s
+2024.06.25 08:17:38 INFO  Cancelling compilation on scala-cli server
+2024.06.25 08:17:38 INFO  compiling scalapracticals_3c17ee17d6 (9 scala sources)
+2024.06.25 08:17:40 INFO  time: compiled scalaPracticals_3c17ee17d6 in 1.77s
+2024.06.25 08:17:40 INFO  time: Imported build in 1.94s
+2024.06.25 08:17:41 INFO  time: indexed workspace in 1.71s
+2024.06.25 08:18:50 INFO  compiling scalapracticals_3c17ee17d6 (1 scala source)
+2024.06.25 08:18:50 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.5s
+2024.06.25 08:19:44 INFO  compiling scalapracticals_3c17ee17d6 (1 scala source)
+2024.06.25 08:19:44 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.48s
+2024.06.25 11:16:41 INFO  compiling scalapracticals_3c17ee17d6 (1 scala source)
+2024.06.25 11:16:42 INFO  time: compiled scalaPracticals_3c17ee17d6 in 1.39s
+2024.06.25 11:17:43 INFO  Shutting down server
+2024.06.25 11:17:43 INFO  shutting down Metals
+2024.06.25 11:17:43 INFO  Shut down connection with build server.
+2024.06.25 11:17:43 INFO  Exiting server
+2024.07.01 12:33:37 INFO  Started: Metals version 1.3.2 in folders 'C:\Users\Sandeepa\Documents\GitHub\scalaPracticals' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@67491cd6]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@1bbaecde]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@67491cd6]
+2024.07.01 12:33:37 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.01 12:33:38 INFO  Attempting to connect to the build server...
+2024.07.01 12:33:38 INFO  Running BSP server List(C:\Users\Sandeepa\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\.scala-build\ide-envs.json, C:\Users\Sandeepa\Documents\GitHub\scalaPracticals)
+2024.07.01 12:33:38 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\.metals\bsp.trace.json or C:\Users\Sandeepa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.01 12:33:41 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.01 12:33:41 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.01 12:33:41 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.01 12:33:45 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.01 12:33:48 INFO  BSP server: Starting compilation server
+2024.07.01 12:33:53 INFO  no build target found for C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\practical3_1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 12:33:57 INFO  time: Connected to build server in 18s
+2024.07.01 12:33:57 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.01 12:33:57 INFO  time: Imported build in 0.14s
+2024.07.01 12:33:58 INFO  compiling scalapracticals_3c17ee17d6 (10 scala sources)
+2024.07.01 12:33:58 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_1.scala
+2024.07.01 12:34:02 INFO  time: compiled scalaPracticals_3c17ee17d6 in 4.86s
+2024.07.01 12:34:02 INFO  compiling scalapracticals_3c17ee17d6 (10 scala sources)
+2024.07.01 12:34:04 INFO  time: indexed workspace in 6.92s
+2024.07.01 12:34:05 INFO  time: compiled scalaPracticals_3c17ee17d6 in 2.24s
+2024.07.01 12:34:05 INFO  Cancelling compilation on scala-cli server
+2024.07.01 12:34:05 INFO  compiling scalapracticals_3c17ee17d6 (2 scala sources)
+2024.07.01 12:34:05 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.41s
+2024.07.01 12:34:05 INFO  compiling scalapracticals_3c17ee17d6 (2 scala sources)
+2024.07.01 12:34:06 INFO  time: Imported build in 0.57s
+2024.07.01 12:34:07 INFO  time: indexed workspace in 1.74s
+2024.07.01 12:34:08 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_1.scala
+2024.07.01 12:34:08 INFO  compiling scalapracticals_3c17ee17d6 (2 scala sources)
+2024.07.01 12:34:08 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.43s
+2024.07.01 12:34:08 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_1.scala
+2024.07.01 12:34:26 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_1.scala
+Jul 01, 2024 12:35:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 132
+Jul 01, 2024 12:35:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 200
+Jul 01, 2024 12:35:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 208
+Jul 01, 2024 12:35:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 263
+Jul 01, 2024 12:35:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 271
+2024.07.01 12:36:05 INFO  compiling scalapracticals_3c17ee17d6 (2 scala sources)
+2024.07.01 12:36:05 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.61s
+2024.07.01 12:37:44 INFO  compiling scalapracticals_3c17ee17d6 (2 scala sources)
+2024.07.01 12:37:44 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.54s
+2024.07.01 12:37:53 INFO  compiling scalapracticals_3c17ee17d6 (2 scala sources)
+2024.07.01 12:37:53 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.45s
+Jul 01, 2024 12:38:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 866
+2024.07.01 12:39:27 INFO  compiling scalapracticals_3c17ee17d6 (2 scala sources)
+2024.07.01 12:39:27 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.61s
+2024.07.01 12:41:06 INFO  compiling scalapracticals_3c17ee17d6 (2 scala sources)
+2024.07.01 12:41:06 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.57s
+2024.07.01 12:42:21 INFO  compiling scalapracticals_3c17ee17d6 (2 scala sources)
+2024.07.01 12:42:21 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.58s
+Jul 01, 2024 12:42:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1279
+2024.07.01 12:43:05 INFO  compiling scalapracticals_3c17ee17d6 (2 scala sources)
+2024.07.01 12:43:05 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.61s
+Jul 01, 2024 12:45:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1518
+2024.07.01 12:46:48 INFO  compiling scalapracticals_3c17ee17d6 (2 scala sources)
+2024.07.01 12:46:48 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.52s
+2024.07.01 19:56:53 INFO  Started: Metals version 1.3.2 in folders 'C:\Users\Sandeepa\Documents\GitHub\scalaPracticals' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@235682b4]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@7414dbb9]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@235682b4]
+2024.07.01 19:56:57 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.01 19:56:57 INFO  no build target found for C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\practical3_1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 19:56:57 INFO  Attempting to connect to the build server...
+2024.07.01 19:56:57 INFO  Running BSP server List(C:\Users\Sandeepa\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\.scala-build\ide-envs.json, C:\Users\Sandeepa\Documents\GitHub\scalaPracticals)
+2024.07.01 19:56:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\.metals\bsp.trace.json or C:\Users\Sandeepa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.01 19:57:00 INFO  BSP server: Starting compilation server
+2024.07.01 19:57:05 INFO  time: Connected to build server in 8.08s
+2024.07.01 19:57:05 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.01 19:57:06 INFO  compiling scalapracticals_3c17ee17d6 (10 scala sources)
+2024.07.01 19:57:08 INFO  time: indexed workspace in 2.1s
+2024.07.01 19:57:10 INFO  time: compiled scalaPracticals_3c17ee17d6 in 3.86s
+2024.07.01 19:57:10 INFO  compiling scalapracticals_3c17ee17d6 (10 scala sources)
+2024.07.01 19:57:11 INFO  time: compiled scalaPracticals_3c17ee17d6 in 1.39s
+2024.07.01 20:38:48 INFO  Cancelling compilation on scala-cli server
+2024.07.01 20:38:48 INFO  compiling scalapracticals_3c17ee17d6 (2 scala sources)
+2024.07.01 20:38:48 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.87s
+2024.07.01 20:38:48 INFO  compiling scalapracticals_3c17ee17d6 (2 scala sources)
+2024.07.01 20:38:49 INFO  time: Imported build in 1.05s
+2024.07.01 20:38:50 INFO  time: indexed workspace in 0.93s
+2024.07.01 20:38:50 INFO  compiling scalapracticals_3c17ee17d6 (2 scala sources)
+2024.07.01 20:38:50 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.41s
+Jul 01, 2024 9:10:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 196
+Jul 01, 2024 9:10:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 233
+2024.07.01 21:11:17 INFO  compiling scalapracticals_3c17ee17d6 (2 scala sources)
+2024.07.01 21:11:17 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.31s
+2024.07.01 21:16:55 INFO  compiling scalapracticals_3c17ee17d6 (2 scala sources)
+2024.07.01 21:16:55 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.23s
+2024.07.01 21:17:32 INFO  compiling scalapracticals_3c17ee17d6 (2 scala sources)
+2024.07.01 21:17:32 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.22s
+Jul 01, 2024 9:17:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 566
+2024.07.01 21:19:23 ERROR Failed to tokenize input for semantic tokens for C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\practical3_1.scala
+scala.meta.tokenizers.TokenizeException: <input>:9: error: unclosed string literal
+        println("${reversedString});
+                ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:509)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:361)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.07.01 21:19:24 ERROR Failed to tokenize input for semantic tokens for C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\practical3_1.scala
+scala.meta.tokenizers.TokenizeException: <input>:9: error: unclosed string literal
+        println("${rever);
+                ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:509)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:361)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.07.01 21:19:24 ERROR Failed to tokenize input for semantic tokens for C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\practical3_1.scala
+scala.meta.tokenizers.TokenizeException: <input>:9: error: unclosed string literal
+        println("$);
+                ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:509)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:361)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.07.01 21:19:27 ERROR Failed to tokenize input for semantic tokens for C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\practical3_1.scala
+scala.meta.tokenizers.TokenizeException: <input>:9: error: unclosed character literal
+        println('');
+                ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchSingleQuote$1(LegacyScanner.scala:391)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:395)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.07.01 21:20:20 INFO  compiling scalapracticals_3c17ee17d6 (2 scala sources)
+2024.07.01 21:20:20 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.21s
+2024.07.01 21:21:01 INFO  no build target found for C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\practical3_2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 21:21:01 INFO  no build target found for C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\practical3_2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 21:21:01 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_2.scala
+2024.07.01 21:21:01 INFO  compiling scalapracticals_3c17ee17d6 (11 scala sources)
+2024.07.01 21:21:01 INFO  compiling scalapracticals_3c17ee17d6 (11 scala sources)
+2024.07.01 21:21:01 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.29s
+2024.07.01 21:21:01 INFO  time: indexed workspace in 0.75s
+2024.07.01 21:21:02 INFO  Cancelling compilation on scala-cli server
+2024.07.01 21:21:01 INFO  compiling scalapracticals_3c17ee17d6 (3 scala sources)
+2024.07.01 21:21:02 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_2.scala
+2024.07.01 21:21:02 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.21s
+2024.07.01 21:21:02 INFO  time: Imported build in 0.29s
+2024.07.01 21:21:02 INFO  time: indexed workspace in 0.64s
+2024.07.01 21:21:02 INFO  compiling scalapracticals_3c17ee17d6 (3 scala sources)
+2024.07.01 21:21:03 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.21s
+2024.07.01 21:21:03 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_2.scala
+2024.07.01 21:21:06 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_2.scala
+2024.07.01 21:21:09 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_2.scala
+2024.07.01 21:21:09 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_2.scala
+2024.07.01 21:21:10 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_2.scala
+2024.07.01 21:21:10 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_2.scala
+2024.07.01 21:22:30 INFO  compiling scalapracticals_3c17ee17d6 (3 scala sources)
+2024.07.01 21:22:30 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.24s
+2024.07.01 21:23:10 INFO  compiling scalapracticals_3c17ee17d6 (3 scala sources)
+2024.07.01 21:23:10 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.21s
+2024.07.01 21:23:17 INFO  compiling scalapracticals_3c17ee17d6 (3 scala sources)
+2024.07.01 21:23:17 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.18s
+Jul 01, 2024 9:23:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1157
+2024.07.01 21:24:04 INFO  compiling scalapracticals_3c17ee17d6 (3 scala sources)
+2024.07.01 21:24:04 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.21s
+2024.07.01 21:24:33 INFO  compiling scalapracticals_3c17ee17d6 (3 scala sources)
+2024.07.01 21:24:33 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.18s
+2024.07.01 21:27:57 INFO  compiling scalapracticals_3c17ee17d6 (3 scala sources)
+2024.07.01 21:27:57 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.2s
+2024.07.01 21:28:36 INFO  compiling scalapracticals_3c17ee17d6 (3 scala sources)
+2024.07.01 21:28:36 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.23s
+2024.07.01 21:28:58 INFO  compiling scalapracticals_3c17ee17d6 (3 scala sources)
+2024.07.01 21:28:58 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.2s
+2024.07.01 21:29:06 INFO  compiling scalapracticals_3c17ee17d6 (3 scala sources)
+2024.07.01 21:29:06 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.17s
+2024.07.01 21:30:57 INFO  compiling scalapracticals_3c17ee17d6 (3 scala sources)
+2024.07.01 21:30:57 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.2s
+2024.07.01 21:31:07 INFO  compiling scalapracticals_3c17ee17d6 (3 scala sources)
+2024.07.01 21:31:07 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.2s
+2024.07.01 21:31:33 INFO  compiling scalapracticals_3c17ee17d6 (3 scala sources)
+2024.07.01 21:31:33 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.19s
+2024.07.01 21:54:48 ERROR Failed to tokenize input for semantic tokens for C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\practical3_2.scala
+scala.meta.tokenizers.TokenizeException: <input>:8: error: unclosed string interpolation
+        println(s"Filtered list: $")
+                  ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.07.01 21:55:02 INFO  compiling scalapracticals_3c17ee17d6 (3 scala sources)
+2024.07.01 21:55:02 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.52s
+2024.07.01 22:08:38 INFO  compiling scalapracticals_3c17ee17d6 (3 scala sources)
+2024.07.01 22:08:38 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.52s
+2024.07.01 22:08:49 INFO  compiling scalapracticals_3c17ee17d6 (3 scala sources)
+2024.07.01 22:08:49 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.33s
+Jul 01, 2024 10:09:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3298
+2024.07.01 22:09:38 INFO  compiling scalapracticals_3c17ee17d6 (3 scala sources)
+2024.07.01 22:09:38 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.38s
+2024.07.01 22:10:34 ERROR Failed to tokenize input for semantic tokens for C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\practical3_2.scala
+scala.meta.tokenizers.TokenizeException: <input>:6: error: unclosed string interpolation
+        val input:Array[String] = Array(adsde", "asd", "kiololk");
+                                                                ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.07.01 22:10:49 INFO  compiling scalapracticals_3c17ee17d6 (3 scala sources)
+2024.07.01 22:10:49 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.45s
+2024.07.01 22:11:19 INFO  compiling scalapracticals_3c17ee17d6 (3 scala sources)
+2024.07.01 22:11:19 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.34s
+2024.07.01 22:12:19 INFO  compiling scalapracticals_3c17ee17d6 (3 scala sources)
+2024.07.01 22:12:19 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.42s
+Jul 01, 2024 10:25:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3622
+2024.07.01 22:27:32 ERROR Failed to tokenize input for semantic tokens for C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\practical3_2.scala
+scala.meta.tokenizers.TokenizeException: <input>:6: error: unclosed string literal
+  val inputList = List("banana", "orange", "kiwi", "apple", "functional", "language)
+                                                                          ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:509)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:361)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.07.01 22:27:32 ERROR Failed to tokenize input for semantic tokens for C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\practical3_2.scala
+scala.meta.tokenizers.TokenizeException: <input>:6: error: unclosed string literal
+  val inputList = List("banana", "orange", "kiwi", "apple", "functional", "lang)
+                                                                          ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:509)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:361)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.07.01 22:27:33 ERROR Failed to tokenize input for semantic tokens for C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\practical3_2.scala
+scala.meta.tokenizers.TokenizeException: <input>:6: error: unclosed string literal
+  val inputList = List("banana", "orange", "kiwi", "apple", "functional", "lan)
+                                                                          ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:509)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:361)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.07.01 22:27:33 ERROR Failed to tokenize input for semantic tokens for C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\practical3_2.scala
+scala.meta.tokenizers.TokenizeException: <input>:6: error: unclosed string literal
+  val inputList = List("banana", "orange", "kiwi", "apple", "functio)
+                                                            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:509)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:361)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.07.01 22:27:33 ERROR Failed to tokenize input for semantic tokens for C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\practical3_2.scala
+scala.meta.tokenizers.TokenizeException: <input>:6: error: unclosed string literal
+  val inputList = List("banana", "orange", "kiwi", "apple", "funct)
+                                                            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:509)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:361)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.07.01 22:27:33 ERROR Failed to tokenize input for semantic tokens for C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\practical3_2.scala
+scala.meta.tokenizers.TokenizeException: <input>:6: error: unclosed string literal
+  val inputList = List("banana", "orange", "kiwi", "apple", "fun)
+                                                            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:509)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:361)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.07.01 22:27:34 ERROR Failed to tokenize input for semantic tokens for C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\practical3_2.scala
+scala.meta.tokenizers.TokenizeException: <input>:6: error: unclosed string literal
+  val inputList = List("banana", "orange", "kiwi", "apple", "f)
+                                                            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:509)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:361)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.07.01 22:27:56 INFO  compiling scalapracticals_3c17ee17d6 (3 scala sources)
+2024.07.01 22:27:56 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.41s
+2024.07.01 22:28:36 INFO  no build target found for C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\practical3_3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 22:28:36 INFO  no build target found for C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\practical3_3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 22:28:36 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_3.scala
+2024.07.01 22:28:36 INFO  compiling scalapracticals_3c17ee17d6 (12 scala sources)
+2024.07.01 22:28:36 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.57s
+2024.07.01 22:28:36 INFO  compiling scalapracticals_3c17ee17d6 (12 scala sources)
+2024.07.01 22:28:38 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.51s
+2024.07.01 22:28:38 INFO  time: indexed workspace in 1.56s
+2024.07.01 22:28:38 INFO  Cancelling compilation on scala-cli server
+2024.07.01 22:28:38 INFO  compiling scalapracticals_3c17ee17d6 (4 scala sources)
+2024.07.01 22:28:38 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_3.scala
+2024.07.01 22:28:38 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.39s
+2024.07.01 22:28:39 INFO  time: Imported build in 0.53s
+2024.07.01 22:28:39 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_3.scala
+2024.07.01 22:28:39 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_3.scala
+2024.07.01 22:28:40 INFO  time: indexed workspace in 1.39s
+2024.07.01 22:28:40 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_3.scala
+2024.07.01 22:28:40 INFO  compiling scalapracticals_3c17ee17d6 (4 scala sources)
+2024.07.01 22:28:41 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_3.scala
+2024.07.01 22:28:40 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.32s
+2024.07.01 22:28:41 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_3.scala
+2024.07.01 22:28:42 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_3.scala
+2024.07.01 22:29:27 INFO  compiling scalapracticals_3c17ee17d6 (4 scala sources)
+2024.07.01 22:29:27 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.4s
+2024.07.01 22:31:51 INFO  compiling scalapracticals_3c17ee17d6 (4 scala sources)
+2024.07.01 22:31:51 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.46s
+2024.07.01 22:39:01 INFO  compiling scalapracticals_3c17ee17d6 (4 scala sources)
+2024.07.01 22:39:01 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.43s
+2024.07.01 22:39:08 INFO  compiling scalapracticals_3c17ee17d6 (4 scala sources)
+2024.07.01 22:39:08 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.37s
+2024.07.01 22:39:35 INFO  compiling scalapracticals_3c17ee17d6 (4 scala sources)
+2024.07.01 22:39:35 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.38s
+2024.07.01 22:39:39 INFO  compiling scalapracticals_3c17ee17d6 (4 scala sources)
+2024.07.01 22:39:39 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.38s
+2024.07.01 22:40:49 INFO  compiling scalapracticals_3c17ee17d6 (4 scala sources)
+2024.07.01 22:40:49 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.42s
+2024.07.01 22:42:15 INFO  compiling scalapracticals_3c17ee17d6 (4 scala sources)
+2024.07.01 22:42:15 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.42s
+Jul 01, 2024 10:42:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5216
+Jul 01, 2024 10:43:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5243
+2024.07.01 22:43:53 INFO  compiling scalapracticals_3c17ee17d6 (4 scala sources)
+2024.07.01 22:43:53 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.41s
+2024.07.01 22:43:59 INFO  compiling scalapracticals_3c17ee17d6 (4 scala sources)
+2024.07.01 22:43:59 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.35s
+2024.07.01 22:45:17 INFO  compiling scalapracticals_3c17ee17d6 (4 scala sources)
+2024.07.01 22:45:17 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.42s
+Jul 01, 2024 10:45:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5572
+2024.07.01 22:48:56 INFO  compiling scalapracticals_3c17ee17d6 (4 scala sources)
+2024.07.01 22:48:56 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.43s
+2024.07.01 22:50:44 INFO  compiling scalapracticals_3c17ee17d6 (4 scala sources)
+2024.07.01 22:50:44 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.54s
+2024.07.01 22:53:04 INFO  compiling scalapracticals_3c17ee17d6 (4 scala sources)
+2024.07.01 22:53:04 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.47s
+2024.07.01 22:53:48 INFO  compiling scalapracticals_3c17ee17d6 (4 scala sources)
+2024.07.01 22:53:48 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.62s
+2024.07.01 22:57:13 INFO  compiling scalapracticals_3c17ee17d6 (4 scala sources)
+2024.07.01 22:57:13 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.59s
+2024.07.01 22:58:38 INFO  compiling scalapracticals_3c17ee17d6 (4 scala sources)
+2024.07.01 22:58:38 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.48s
+2024.07.01 22:58:55 INFO  compiling scalapracticals_3c17ee17d6 (4 scala sources)
+2024.07.01 22:58:55 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.47s
+2024.07.01 22:59:11 INFO  compiling scalapracticals_3c17ee17d6 (4 scala sources)
+2024.07.01 22:59:11 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.36s
+2024.07.01 22:59:22 INFO  compiling scalapracticals_3c17ee17d6 (4 scala sources)
+2024.07.01 22:59:22 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.35s
+2024.07.01 22:59:38 INFO  compiling scalapracticals_3c17ee17d6 (4 scala sources)
+2024.07.01 22:59:38 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.34s
+2024.07.01 23:00:16 INFO  no build target found for C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\practical3_4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 23:00:16 INFO  no build target found for C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\practical3_4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 23:00:16 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_4.scala
+2024.07.01 23:00:16 INFO  compiling scalapracticals_3c17ee17d6 (13 scala sources)
+2024.07.01 23:00:16 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.52s
+2024.07.01 23:00:16 INFO  compiling scalapracticals_3c17ee17d6 (13 scala sources)
+2024.07.01 23:00:18 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.48s
+2024.07.01 23:00:18 INFO  time: indexed workspace in 1.43s
+2024.07.01 23:00:18 INFO  Cancelling compilation on scala-cli server
+2024.07.01 23:00:18 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:00:18 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_4.scala
+2024.07.01 23:00:18 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.42s
+2024.07.01 23:00:19 INFO  time: Imported build in 0.57s
+2024.07.01 23:00:20 INFO  time: indexed workspace in 1.28s
+2024.07.01 23:00:58 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:00:58 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.44s
+2024.07.01 23:00:58 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_4.scala
+2024.07.01 23:01:07 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_4.scala
+2024.07.01 23:01:07 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_4.scala
+2024.07.01 23:01:07 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_4.scala
+2024.07.01 23:01:08 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_4.scala
+Jul 01, 2024 11:01:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6570
+2024.07.01 23:01:09 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_4.scala
+2024.07.01 23:01:09 WARN  Could not find semantic tokens for: file:///C:/Users/Sandeepa/Documents/GitHub/scalaPracticals/practical3_4.scala
+2024.07.01 23:09:11 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:09:11 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.43s
+2024.07.01 23:09:32 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:09:32 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.45s
+2024.07.01 23:09:38 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:09:38 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.4s
+Jul 01, 2024 11:09:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7357
+Jul 01, 2024 11:10:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7482
+2024.07.01 23:11:43 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:11:43 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.43s
+Jul 01, 2024 11:12:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7667
+2024.07.01 23:12:28 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:12:28 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.51s
+2024.07.01 23:12:58 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:12:58 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.41s
+2024.07.01 23:13:07 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:13:07 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.47s
+2024.07.01 23:13:43 ERROR Failed to tokenize input for semantic tokens for C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\practical3_4.scala
+scala.meta.tokenizers.TokenizeException: <input>:8: error: unclosed string interpolation
+        println(s"Sum of even numbers: $")
+                  ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.07.01 23:13:46 ERROR Failed to tokenize input for semantic tokens for C:\Users\Sandeepa\Documents\GitHub\scalaPracticals\practical3_4.scala
+scala.meta.tokenizers.TokenizeException: <input>:8: error: unclosed string interpolation
+        println(s"Sum of even numbers: $")
+                  ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.07.01 23:13:51 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:13:51 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.47s
+2024.07.01 23:14:06 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:14:06 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.41s
+2024.07.01 23:14:57 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:14:57 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.49s
+2024.07.01 23:20:33 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:20:33 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.27s
+2024.07.01 23:21:44 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:21:44 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.24s
+2024.07.01 23:22:05 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:22:05 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.2s
+2024.07.01 23:22:51 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:22:51 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.24s
+2024.07.01 23:25:36 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:25:36 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.24s
+2024.07.01 23:30:46 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:30:46 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.21s
+2024.07.01 23:31:20 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:31:20 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.18s
+2024.07.01 23:31:37 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:31:37 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.17s
+Jul 01, 2024 11:31:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8888
+2024.07.01 23:32:01 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:32:01 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.2s
+2024.07.01 23:32:19 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:32:19 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.17s
+2024.07.01 23:33:42 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:33:42 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.2s
+2024.07.01 23:33:57 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:33:57 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.17s
+2024.07.01 23:35:24 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:35:24 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.23s
+2024.07.01 23:36:28 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:36:28 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.2s
+2024.07.01 23:36:33 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:36:33 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.19s
+2024.07.01 23:36:43 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:36:43 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.15s
+2024.07.01 23:36:54 INFO  compiling scalapracticals_3c17ee17d6 (5 scala sources)
+2024.07.01 23:36:54 INFO  time: compiled scalaPracticals_3c17ee17d6 in 0.16s

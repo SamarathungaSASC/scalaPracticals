@@ -5,6 +5,6 @@ object theater{
     def attendees(price:Int):Int =120 + (15-price) / 5 *20;
     
     def main(arg: Array[String])={
-        println(profit(30));
+        println(profit(30.56));
     }
 }
