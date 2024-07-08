@@ -4,7 +4,7 @@ object String{
         else reverseString(s.tail) + s.head;
     }
     def main(args: Array[String]):Unit = {
-        val input:String = "Sandeepa";
+        val input:String = "Sandeepa Samarathunga";
         val reversedString:String = reverseString(input);
         println(s"Input string- $input");
         println(s"Reversed string- $reversedString");
