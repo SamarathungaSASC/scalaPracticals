@@ -4,12 +4,16 @@ object practical9 extends App{
     def interest(deposit: Double): Double ={
         deposit match{
             case deposit if deposit <= 20000 => deposit * 0.02
-            case deposit if deposit >= 200000 => deposit * 0.04
+            case deposit if deposit <= 200000 => deposit * 0.04
             case deposit if deposit <= 2000000 => deposit * 0.035
             case _ => deposit * 0.065
         }
     }
-    println(interest(10000));
+    // println(interest(10000));
+    // println(interest(100000));
+    // println(interest(250000));
+    // println(interest(2000000));
+
 
     def patternMatch():Unit ={
         println("Enter a number: ");
@@ -20,7 +24,7 @@ object practical9 extends App{
             case _ => println("Odd");
         }
     }
-    patternMatch();
+    //patternMatch();
 
     def toUpper(s: String): String = {
         s.toUpperCase()
@@ -37,5 +41,5 @@ object practical9 extends App{
     println(formatNames("Benny", toUpper));
     println(formatNames("Niroshan", name => name.substring(0, 2).toUpperCase + name.substring(2).toLowerCase));
     println(formatNames("Saman", toLower));
-    println(formatNames("Kumara", name => name.substring(0, 1).toUpperCase + name.substring(1, name.length - 1).toLowerCase + name.last.toUpper)) 
+    println(formatNames("Kumara", name => name.substring(0, 1).toUpperCase + name.substring(1, name.length - 1).toLowerCase + name.last.toUpper));
 }
